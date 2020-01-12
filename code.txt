@@ -1,1 +1,3 @@
 this is change for commited
+this change is for staging area
+this change is for current working directory
